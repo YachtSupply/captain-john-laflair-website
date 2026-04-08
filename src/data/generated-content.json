@@ -40,6 +40,27 @@
       "West Palm Beach",
       "Fort Lauderdale"
     ],
-    "serviceAreaTitle": "We Come to You"
-  }
+    "serviceAreaTitle": "We Come to You",
+    "reviewSynopsis": {
+      "aggregateRating": 5,
+      "totalReviewCount": 9,
+      "boatworkReviewCount": 9,
+      "googleReviewCount": 0,
+      "summary": "Our clients consistently highlight our unwavering commitment to safety and professionalism, with many noting that they feel completely secure on the water even in rough or challenging conditions. Divers of all experience levels praise our deep knowledge of local dive sites and our ability to select the perfect locations for the best possible underwater experience. Our friendly demeanor and passion for the ocean make every charter not only safe and well-organized, but genuinely fun and memorable for everyone on board.",
+      "keywords": [
+        "dive charter captain",
+        "scuba diving safety",
+        "local dive site knowledge",
+        "professional boat captain",
+        "dive briefings",
+        "calm under pressure",
+        "marine life dive spots",
+        "experienced dive boat captain"
+      ],
+      "sources": [
+        "boatwork"
+      ]
+    }
+  },
+  "synopsisUpdatedAt": "2026-04-08T13:19:50.252Z"
 }
